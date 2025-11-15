@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Advanced Mathematics - Calculus Fundamentals",
+    "subject": "Mathematics",
+    "grade": "s6",
+    "duration": "45:00",
+    "rating": 4.8,
+    "description": "Master calculus concepts including derivatives, integrals, and limits with step-by-step explanations",
+    "url": "https://www.youtube.com/watch?v=WUvTyaaNkzM"
+  },
+  {
+    "title": "Organic Chemistry - Compound Structures",
+    "subject": "Chemistry",
+    "grade": "s5",
+    "duration": "38:00",
+    "rating": 4.7,
+    "description": "Understanding organic compounds, their structures, and chemical reactions",
+    "url": "https://www.youtube.com/watch?v=8j0UDiN7my4"
+  },
+  {
+    "title": "Physics - Momentum and force",
+    "subject": "Physics",
+    "grade": "s4",
+    "duration": "15:22",
+    "rating": 4.7,
+    "description": "Understanding Newton's second law",
+    "url": "https://www.youtube.com/watch?v=NIVNfI0RN2k"
+  },
+  {
+    "title": "Biology - Cell structure",
+    "subject": "Biology",
+    "grade": "s4",
+    "duration": "17:00",
+    "rating": 4.7,
+    "description": "Understanding the cell structure",
+    "url": "https://www.youtube.com/watch?v=HZGxmeFxtFk"
+  },
+  {
+    "title": "Geography - Mapwork",
+    "subject": "Geography",
+    "grade": "s4",
+    "duration": "8:41",
+    "rating": 4.7,
+    "description": "True bearing and magnetic bearing",
+    "url": "https://www.youtube.com/watch?v=5fHuczMEjLA"
+  },
+  {
+    "title": "Economics - Macroeconomics",
+    "subject": "Economics",
+    "grade": "s4,s5,s6",
+    "duration": "29:57",
+    "rating": 4.7,
+    "description": "Understanding macroeconomics",
+    "url": "https://www.youtube.com/watch?v=MKO1icFVtDc"
+  },
+  {
+    "title": "Computer Science - Programming",
+    "subject": "Computer Science",
+    "grade": "s4",
+    "duration": "1:59:08",
+    "rating": 4.7,
+    "description": "Understanding programming languages",
+    "url": "https://www.youtube.com/watch?v=zOjov-2OZ0E"
+  },
+  {
+    "title": "Mathematics - Complex Numbers",
+    "subject": "Mathematics",
+    "grade": "s6",
+    "duration": "21:21",
+    "rating": 4.7,
+    "description": "Understanding complex numbers",
+    "url": "https://www.youtube.com/watch?v=8BBXj7JjCMs&list=PL3o37qx-G0r692anWoz_za1rRCltxHjbc"
+  },
+  {
+    "title": "Economics - Microeconomics",
+    "subject": "Economics",
+    "grade": "s4,s5,s6",
+    "duration": "28:54",
+    "rating": 4.7,
+    "description": "Understanding microeconomics",
+    "url": "https://www.youtube.com/watch?v=1UxA6JzoT-4"
+  },
+  {
+    "title": "Geography - Landforms",
+    "subject": "Geography",
+    "grade": "s6",
+    "duration": "40:11",
+    "rating": 4.7,
+    "description": "Landforming processes",
+    "url": "https://www.youtube.com/watch?v=kypEQ32ZiBk"
+  },
+  {
+    "title": "Mathematics - Trigonometry",
+    "subject": "Mathematics",
+    "grade": "s4,s5",
+    "duration": "20:29",
+    "rating": 4.7,
+    "description": "Trigonometry",
+    "url": "https://www.youtube.com/watch?v=GjXewT9k9l0"
+  },
+  {
+    "title": "Intro to Psychology",
+    "subject": "Psychology",
+    "grade": "s4,s5",
+    "duration": "10:53",
+    "rating": 4.7,
+    "description": "Understanding the theory of psychology",
+    "url": "https://www.youtube.com/watch?v=vo4pMVb0R6M"
+  }
+]
